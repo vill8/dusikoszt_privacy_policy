@@ -16,7 +16,6 @@ W celu zapewnienia funkcjonalności subskrypcji oraz płatności, aplikacja korz
 * **RevenueCat:** Obsługuje procesowanie subskrypcji i weryfikację zakupów. RevenueCat może zbierać anonimowe identyfikatory transakcji (takie jak App User ID) oraz status subskrypcji w celu synchronizacji zakupów.
 * **Google Play Billing:** Wszystkie transakcje finansowe są procesowane bezpośrednio przez Google Play Store. DusiKoszt nie ma dostępu do Twoich danych płatniczych.
 
-* Nasza aplikacja korzysta z usług reklamowych od Google, w tym usługi AdMob. Dane takie jak ID urządzenia i informacje o aktywności użytkownika mogą być przekazywane firmie Google w celu wyświetlania reklam spersonalizowanych.
 
 Zachęcamy do zapoznania się z polityką prywatności dostawców:
 * [Polityka Prywatności RevenueCat](https://www.revenuecat.com/privacy)
